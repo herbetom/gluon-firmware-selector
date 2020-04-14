@@ -58,6 +58,9 @@ var config = {
   devices_info: {
     'AVM': {
       "FRITZ!Box 4040": "https://fritz-tools.readthedocs.io"
+    },
+    "TP-Link": {
+      "TL-WR841N/ND": {"v13": "https://wiki.freifunk.net/TP-Link_WR841ND/Flash-Anleitung_v13"}
     }
   }
 };
